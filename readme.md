@@ -8,7 +8,7 @@ Challenge :spiral_notepad: : Create a country quiz app using an API. Use Front-e
 - User story: I can try again - [x]
 
 client: React, Typescript, ChakraUI  <br/>
-server: Nodejs, Express, Typescript (:building_construction:)
+server: Nodejs, Express, Typescript, MongoDB (:building_construction:)
 
 [Deploy]() <br/>
 [Challenge](https://devchallenges.io/challenges/Bu3G2irnaXmfwQ8sZkw8)
